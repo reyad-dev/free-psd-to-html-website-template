@@ -26,8 +26,8 @@ This repository is useful as a front-end practice project for developers learnin
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/mmagdym1/tring-free-template-2.git
-cd tring-free-template-2
+git clone https://github.com/mmagdym1/free-psd-to-html-website-template.git
+cd free-psd-to-html-website-template
 ```
 
 Open `index.html` in your browser.
@@ -44,15 +44,6 @@ Open `index.html` in your browser.
 
 `psd to html` · `free html css template` · `business website template` · `static website template` · `frontend practice project` · `html css beginner project` · `portfolio website template` · `font awesome website`
 
-## 📌 Better Repository Name
-
-The current repository name does not clearly describe the project. A more searchable name would be:
-
-`free-psd-to-html-website-template`
-
-or
-
-`classic-html-css-business-template`
 
 ---
 
