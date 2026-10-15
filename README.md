@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="repo-icon.svg" width="180" alt="PSD to HTML project icon" />
+</p>
+
 # Free PSD to HTML Website Template — Classic Multi-Section Layout
 
 A classic **PSD-to-HTML style website template** built with HTML and CSS. It includes navigation, social icons, a hero slider area, portfolio blocks, newsletter fields, footer content, and a traditional multi-section business layout.
@@ -26,7 +30,7 @@ This repository is useful as a front-end practice project for developers learnin
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/mmagdym1/free-psd-to-html-website-template.git
+git clone https://github.com/reyad-dev/free-psd-to-html-website-template.git
 cd free-psd-to-html-website-template
 ```
 
@@ -43,7 +47,6 @@ Open `index.html` in your browser.
 ## 🔎 Search Topics
 
 `psd to html` · `free html css template` · `business website template` · `static website template` · `frontend practice project` · `html css beginner project` · `portfolio website template` · `font awesome website`
-
 
 ---
 
