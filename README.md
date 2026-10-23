@@ -2,9 +2,11 @@
   <img src="repo-icon.svg" width="180" alt="PSD to HTML project icon" />
 </p>
 
-# Free PSD to HTML Website Template — Classic Multi-Section Layout
+# ReyadTemplate — Free PSD to HTML CSS Website Template
 
-A classic **PSD-to-HTML style website template** built with HTML and CSS. It includes navigation, social icons, a hero slider area, portfolio blocks, newsletter fields, footer content, and a traditional multi-section business layout.
+**ReyadTemplate**, created by **Mohamed Reyad (@reyad-dev)**, is a classic **PSD-to-HTML website template** built with HTML and CSS for front-end learning, static business layouts, and design-to-code practice.
+
+It includes navigation, social icons, a hero slider area, portfolio blocks, newsletter fields, footer content, and a traditional multi-section business layout.
 
 This repository is useful as a front-end practice project for developers learning how to convert a static design or PSD concept into a working web page.
 
