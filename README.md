@@ -2,7 +2,7 @@
   <img src="repo-icon.svg" width="180" alt="PSD to HTML project icon" />
 </p>
 
-# ReyadTemplate — Free PSD to HTML CSS Website Template
+# ReyadTemplate | Free PSD to HTML CSS Website Template
 
 **ReyadTemplate**, created by **Mohamed Reyad (@reyad-dev)**, is a classic **PSD-to-HTML website template** built with HTML and CSS for front-end learning, static business layouts, and design-to-code practice.
 
